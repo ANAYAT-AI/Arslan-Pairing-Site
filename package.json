@@ -1,12 +1,12 @@
 {
   "name": "arslan-pairing-site",
   "version": "0.0.1",
-  "description": "A multi functional whatsapp bot Web paircode Created By ArslanMD Official.",
+  "description": "A multi functional whatsapp bot Web paircode Created By Anayat-AI Official.",
   "main": "arslan.js",
   "scripts": {
-    "start": "pm2 start arslan.js --deep-monitoring --attach --name Arslan-MD",
-    "stop": "pm2 stop Arslan-MD",
-    "restart": "pm2 restart Arslan-MD"
+    "start": "pm2 start arslan.js --deep-monitoring --attach --name Anayat-AI",
+    "stop": "pm2 stop Anayat-AI",
+    "restart": "pm2 restart Anayat-AI"
   },
   "dependencies": {
     "@whiskeysockets/baileys": "npm:wileys",              
